@@ -1,0 +1,17 @@
+
+Tracing route to vk.com [87.240.190.67]
+over a maximum of 30 hops:
+
+  1     2 ms     1 ms     1 ms  192.168.1.1 
+  2     5 ms     2 ms     2 ms  lo100.ar132-35.ekb.ru.mirasystem.net [46.48.38.1] 
+  3     7 ms     3 ms     4 ms  bundle-ether3-4030.sr37-37.ekb.ru.mirasystem.net [92.242.29.74] 
+  4    11 ms    12 ms     3 ms  78.25.87.152 
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7    33 ms    33 ms    34 ms  10.222.78.122 
+  8    39 ms    41 ms    39 ms  78.25.87.130 
+  9    41 ms    36 ms    34 ms  srv246-191-240-87.vk.com [87.240.191.246] 
+ 10     *        *        *     Request timed out.
+ 11    49 ms    37 ms    44 ms  srv67-190-240-87.vk.com [87.240.190.67] 
+
+Trace complete.
